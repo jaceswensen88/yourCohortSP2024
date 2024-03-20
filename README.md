@@ -1,3 +1,3 @@
-# yourCohort
-Add what season and year of your cohort
-Add your name and classmates names
+# yourCohortSP2024
+Spring2024
+Jace Nyle karen Eduardo sam
